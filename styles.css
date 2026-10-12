@@ -1,0 +1,67 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  min-width: 320px;
+  background: #fff;
+}
+
+body {
+  min-height: 100vh;
+  margin: 0;
+  color: #000;
+  background: #fff;
+  font-family: Arial, sans-serif;
+}
+
+.downloads {
+  width: min(560px, calc(100% - 40px));
+  margin: 0 auto;
+  padding: 64px 0;
+}
+
+h1 {
+  margin: 0 0 28px;
+  font-size: 2rem;
+}
+
+.download-list {
+  display: grid;
+  gap: 12px;
+}
+
+.download-button,
+.coming-soon {
+  display: block;
+  padding: 14px 18px;
+  border: 1px solid #000;
+  color: #000;
+  background: #fff;
+  text-align: center;
+}
+
+.download-button {
+  text-decoration: none;
+}
+
+.coming-soon {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.coming-soon-label {
+  color: #555;
+}
+
+.download-button:hover,
+.download-button:focus-visible {
+  color: #fff;
+  background: #000;
+}
+
+.download-button:focus-visible {
+  outline: 2px solid #000;
+  outline-offset: 3px;
+}
