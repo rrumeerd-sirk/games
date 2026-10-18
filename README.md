@@ -11,7 +11,7 @@ DELTARUNE <img src="https://github.com/rrumeerd-sirk/games/blob/9d0cfcc9936dfd6b
 
 GEOMETRY DASH <img src="https://github.com/rrumeerd-sirk/games/blob/3cda1255aa4890df0d05daf175a56daf532f8d74/gd-coin.gif" width="30" align="center" alt=""> <br>
 
-UNDERTALE <img src="PASTE_THE_GITHUB_UPLOADED_URL_HERE" width="30" align="center" alt=""> <br>
+UNDERTALE <img src="https://github.com/rrumeerd-sirk/games/blob/9f0a3c0c93e0576e091886ecd0d3d578a702e75b/frisk-breakdance.gif" alt=""> <br>
 
 UNDERTALE YELLOW <img src="PASTE_THE_GITHUB_UPLOADED_URL_HERE" width="30" align="center" alt=""> <br>
 
