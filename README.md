@@ -1,6 +1,14 @@
 # games
 
-downloadable if you want via
- (https://rrumeerd-sirk.github.io/games/).
+you can download them at https://rrumeerd-sirk.github.io/games
 
-good luck
+***WARNING***: Its not *my* problem if you remix or give this away. I have this online for **educational purposes**, *nothing else*
+
+***Available games***
+
+DELTARUNE
+GEOMETRY DASH
+UNDERTALE
+UNDERTALE YELLOW
+BEATBLOCK
+HOLLOW KNIGHT
